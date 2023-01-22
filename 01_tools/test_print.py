@@ -1,0 +1,1 @@
+print ("Hello people from python advanced!")
